@@ -29,7 +29,7 @@ A simple React application to track and display your cryptocurrency holdings, in
 ---
 
 ## 📂 Project Structure
-
+```bash
 /KoinX
 │
 ├── public/
@@ -43,13 +43,14 @@ A simple React application to track and display your cryptocurrency holdings, in
 │
 ├── package.json
 └── README.md
+```
 
 ## 📦 Installation
 
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/yourusername/crypto-portfolio-tracker.git
+git clone[ https://github.com/yourusername/crypto-portfolio-tracker.git](https://github.com/UdaykiranRegimudi/KoinXAssignment.git)
 cd crypto-portfolio-tracker
 npm install
 ```
