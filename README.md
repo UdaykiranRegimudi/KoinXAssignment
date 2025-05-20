@@ -16,7 +16,7 @@ A simple React application to track and display your cryptocurrency holdings, in
 
 ## 📸 Screenshot
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](/public/image.png)
 
 ---
 
